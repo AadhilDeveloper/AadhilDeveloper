@@ -142,10 +142,6 @@ I love turning ideas into real-world software, and I'm eager to apply my knowled
 
 I'm open to **internships, collaborations and learning opportunities**. Feel free to reach out!
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhildev)
-[![Email](https://img.shields.io/badge/Send-an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohd.aadhil.dev@gmail.com)
 
 <br/>
 
