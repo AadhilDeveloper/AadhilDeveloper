@@ -26,15 +26,13 @@ I love turning ideas into real-world software, and I'm eager to apply my knowled
 
 > 🎯 **Currently seeking** an internship to gain hands-on experience and grow as a skilled software professional.
 
-```js
-const aadhil = {
-  role: "Intern Software Engineer",
-  studying: ["B.Sc. Computer Science (Software Engineering)", "HNDIT"],
-  focus: ["Web Development", "Databases", "Mobile Apps", "Machine Learning"],
-  currentlyLearning: ["Laravel", "React.js", "Flutter", "Cloud Computing"],
-  funFact: "Cadet leader turned code enthusiast 🎖️➡️💻",
-};
-```
+| | |
+|---|---|
+| 🧑‍💻 **Role** | Intern Software Engineer |
+| 🎓 **Studying** | B.Sc. Computer Science (Software Engineering) · HNDIT |
+| 🎯 **Focus** | Web Development · Databases · Mobile Apps · Machine Learning |
+| 🌱 **Currently Learning** | Laravel · React.js · Flutter · Cloud Computing |
+| ⚡ **Fun Fact** | Cadet leader turned code enthusiast 🎖️ ➡️ 💻 |
 
 ---
 
@@ -134,9 +132,7 @@ const aadhil = {
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=aadhil2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhil2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhil2004&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=aadhil2004&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+<img src="https://streak-stats.demolab.com?user=aadhil2004&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
